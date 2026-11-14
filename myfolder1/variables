@@ -1,4 +1,4 @@
 name= "ammad"
 
-firstname = input("what is ur first name \n")
+firstname = input("what is ur last name \n")
 print(f" your name is {firstname}")
